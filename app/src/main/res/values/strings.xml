@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">JCScaffoldDemo</string>
+    <string name="align_your_body">Inversions</string>
+    <string name="bullbasur">bullbasur</string>
+    <string name="flier">flier</string>
+    <string name="dragon">dragon</string>
+    <string name="pikachu">pikachu</string>
+    <string name="penguin">penguin</string>
+    <string name="psyduck">psyduck</string>
+    <string name="firefly">firefly</string>
+    <string name="fav_collection">Nature Meditations</string>
+    <string name="my_fav_collection">My Favourite Pokemon collection</string>
+    <string name="my_aligned_body">Pokemon Characters</string>
+    <string name="bottom_navigation_home">Home</string>
+    <string name="bottom_navigation_profile">Profile</string>
+</resources>
